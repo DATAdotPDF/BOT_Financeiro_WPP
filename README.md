@@ -16,8 +16,9 @@ Ele permite cadastrar contas fixas e variáveis, definir metas de economia, cons
 
 ---
 
-## 🗂️ Estrutura de Pastas
-📦 /bot_financas
+📂 Estrutura de Pastas
+
+/bot_financas
 ├── auth_info_baileys/
 ├── BAILEY BOT_BANNER.png
 ├── comandos.js
@@ -26,6 +27,7 @@ Ele permite cadastrar contas fixas e variáveis, definir metas de economia, cons
 ├── node_modules/
 ├── package.json
 └── package-lock.json
+
 
 
 ---
