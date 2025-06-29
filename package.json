@@ -1,0 +1,17 @@
+{
+  "name": "meu-bot-baileys",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp usando @whiskeysockets/baileys",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "date-fns": "^4.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

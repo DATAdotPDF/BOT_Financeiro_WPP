@@ -1,0 +1,88 @@
+{
+  "metaEconomia": 300,
+  "mesAtivo": "2025-07",
+  "meses": {
+    "2025-07": {
+      "fixas": [
+        {
+          "nome": "DNC",
+          "valor": 300,
+          "dia": 10
+        },
+        {
+          "nome": "Plano de Saúde",
+          "valor": 180,
+          "dia": 10
+        },
+        {
+          "nome": "Luz",
+          "valor": 300,
+          "dia": 15
+        },
+        {
+          "nome": "Gás",
+          "valor": 200,
+          "dia": 15
+        },
+        {
+          "nome": "VIVO Internet",
+          "valor": 99,
+          "dia": 15
+        }
+      ],
+      "variaveis": [
+        {
+          "nome": "Cartão Itaú (Uber)",
+          "valor": 315,
+          "dia": 10
+        },
+        {
+          "nome": "Cartão Inter",
+          "valor": 1700,
+          "dia": 18
+        }
+      ]
+    },
+    "2025-06": {
+      "fixas": [
+        {
+          "nome": "DNC",
+          "valor": 300,
+          "dia": 10
+        },
+        {
+          "nome": "Plano de Saúde",
+          "valor": 180,
+          "dia": 10
+        },
+        {
+          "nome": "Luz",
+          "valor": 300,
+          "dia": 15
+        },
+        {
+          "nome": "Gás",
+          "valor": 200,
+          "dia": 15
+        },
+        {
+          "nome": "VIVO Internet",
+          "valor": 99,
+          "dia": 15
+        }
+      ],
+      "variaveis": [
+        {
+          "nome": "Cartão Itaú (Uber)",
+          "valor": 315,
+          "dia": 10
+        },
+        {
+          "nome": "Cartão Inter",
+          "valor": 1700,
+          "dia": 18
+        }
+      ]
+    }
+  }
+}
